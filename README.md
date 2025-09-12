@@ -21,6 +21,7 @@ The project benchmarks three models — **Logistic Regression, Random Forest, an
 ---
 
 ## 📂 Repository Structure
+
 diabetes-ml-prediction/
 │── diabetes_project.ipynb # 
 │── diabetes.csv #  
